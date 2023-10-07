@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\abdulazeez\simpleInterest\obj\Debug\net7.0\simpleInterest.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\abdulazeez\simpleInterest\obj\Debug\net7.0\simpleInterest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\abdulazeez\simpleInterest\obj\Debug\net7.0\simpleInterest.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\abdulazeez\simpleInterest\obj\Debug\net7.0\simpleInterest.AssemblyInfo.cs
+C:\Users\hp\Desktop\abdulazeez\simpleInterest\obj\Debug\net7.0\simpleInterest.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\abdulazeez\simpleInterest\bin\Debug\net7.0\simpleInterest.exe
+C:\Users\hp\Desktop\abdulazeez\simpleInterest\bin\Debug\net7.0\simpleInterest.deps.json
+C:\Users\hp\Desktop\abdulazeez\simpleInterest\bin\Debug\net7.0\simpleInterest.runtimeconfig.json
+C:\Users\hp\Desktop\abdulazeez\simpleInterest\bin\Debug\net7.0\simpleInterest.dll
+C:\Users\hp\Desktop\abdulazeez\simpleInterest\bin\Debug\net7.0\simpleInterest.pdb
+C:\Users\hp\Desktop\abdulazeez\simpleInterest\obj\Debug\net7.0\simpleInterest.dll
+C:\Users\hp\Desktop\abdulazeez\simpleInterest\obj\Debug\net7.0\refint\simpleInterest.dll
+C:\Users\hp\Desktop\abdulazeez\simpleInterest\obj\Debug\net7.0\simpleInterest.pdb
+C:\Users\hp\Desktop\abdulazeez\simpleInterest\obj\Debug\net7.0\simpleInterest.genruntimeconfig.cache
+C:\Users\hp\Desktop\abdulazeez\simpleInterest\obj\Debug\net7.0\ref\simpleInterest.dll
